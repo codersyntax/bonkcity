@@ -1,10 +1,9 @@
 [
 null,
-{"id":1,"expanded":true,"name":"MAP001","order":1,"parentId":0,"scrollX":819,"scrollY":461},
-{"id":2,"expanded":true,"name":"Bonk's House","order":2,"parentId":1,"scrollX":811,"scrollY":499},
-{"id":3,"expanded":false,"name":"Townsdale","order":3,"parentId":1,"scrollX":1088,"scrollY":1280},
-{"id":4,"expanded":false,"name":"Rusty Flagon","order":4,"parentId":1,"scrollX":819,"scrollY":461},
-{"id":5,"expanded":false,"name":"Forest","order":5,"parentId":1,"scrollX":811,"scrollY":979},
-{"id":6,"expanded":false,"name":"Stone Cave","order":6,"parentId":1,"scrollX":1088,"scrollY":987},
-{"id":7,"expanded":false,"name":"Townsdale Storage Building","order":7,"parentId":1,"scrollX":832,"scrollY":640}
+{"id":1,"expanded":true,"name":"MAP001","order":1,"parentId":0,"scrollX":1228.5,"scrollY":721.5},
+{"id":2,"expanded":true,"name":"Bonk's House","order":2,"parentId":1,"scrollX":540.6666666666666,"scrollY":467.3333333333333},
+{"id":3,"expanded":false,"name":"Normal Town","order":3,"parentId":1,"scrollX":1088,"scrollY":1214},
+{"id":4,"expanded":false,"name":"Rusty Flagon","order":4,"parentId":1,"scrollX":832,"scrollY":640},
+{"id":5,"expanded":false,"name":"Forest","order":5,"parentId":1,"scrollX":816,"scrollY":798},
+{"id":6,"expanded":false,"name":"Stone Cave","order":6,"parentId":1,"scrollX":1081.3333333333333,"scrollY":798.6666666666666}
 ]
