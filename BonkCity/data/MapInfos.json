@@ -7,4 +7,6 @@ null,
 {"id":5,"expanded":false,"name":"Forest","order":5,"parentId":1,"scrollX":1081.3333333333333,"scrollY":798.6666666666666},
 {"id":6,"expanded":false,"name":"Stone Cave","order":6,"parentId":1,"scrollX":1081.3333333333333,"scrollY":665.3333333333334},
 {"id":7,"expanded":false,"name":"Storage","order":7,"parentId":1,"scrollX":1092,"scrollY":641.3333333333334}
+{"id":8,"expanded":false,"name":"Townsdale Overlook","order":8,"parentId":1,"scrollX":832,"scrollY":640}
+
 ]
