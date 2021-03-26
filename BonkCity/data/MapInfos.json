@@ -1,11 +1,11 @@
 [
 null,
 {"id":1,"expanded":true,"name":"MAP001","order":1,"parentId":0,"scrollX":546,"scrollY":320.6666666666667},
-{"id":2,"expanded":true,"name":"Bonk's House","order":2,"parentId":1,"scrollX":540.6666666666666,"scrollY":639.3333333333334},
+{"id":2,"expanded":true,"name":"Bonk's House","order":2,"parentId":1,"scrollX":648.8,"scrollY":575.2},
 {"id":3,"expanded":false,"name":"Townsdale","order":3,"parentId":1,"scrollX":1379.3333333333333,"scrollY":960},
 {"id":4,"expanded":false,"name":"Rusty Flagon","order":4,"parentId":1,"scrollX":540.6666666666666,"scrollY":399.3333333333333},
 {"id":5,"expanded":false,"name":"Forest","order":5,"parentId":1,"scrollX":720.8888888888889,"scrollY":924.4444444444445},
-{"id":6,"expanded":false,"name":"Stone Cave","order":6,"parentId":1,"scrollX":1228.4444444444443,"scrollY":721.7777777777778},
+{"id":6,"expanded":false,"name":"Stone Cave","order":6,"parentId":1,"scrollX":1228.8,"scrollY":1059.2},
 {"id":7,"expanded":false,"name":"Storage","order":7,"parentId":1,"scrollX":728,"scrollY":427.55555555555554},
 {"id":8,"expanded":false,"name":"Townsdale Overlook","order":8,"parentId":1,"scrollX":728,"scrollY":427.55555555555554},
 {"id":9,"expanded":false,"name":"Rusty Kitchen","order":9,"parentId":1,"scrollX":728,"scrollY":427.55555555555554},
